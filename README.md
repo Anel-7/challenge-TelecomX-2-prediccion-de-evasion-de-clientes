@@ -47,10 +47,10 @@
 
 📂 Estructura de Archivos:  
 
-  challenge-telecomX/  
-  │ 
+  challenge-telecomX2/  
+  │   
   ├─ datos_limpios.csv  
-  │ 
+  │   
   ├─ TelecomX.ipynb  
   │  
-  ├─ README.md
+  ├─ README.md  
